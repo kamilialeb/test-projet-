@@ -1,7 +1,7 @@
 body {
     margin: 40px auto;
     max-width: 650px;
-<<<<<<< HEAD
+    
 }
 
 
@@ -68,6 +68,24 @@ p{
 }
 
 .underline {
->>>>>>> 4b7465ae7b433ca7c9d4be90276ee9e1f8608e26
     text-decoration: underline
+}
+
+.div {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
+
+.w-50 {
+    background-color: skyblue;
+    width: 50%;
+    height: 100%;
+}
+
+.buttons {
+    margin: 50px 0;
+    background-color: azure;
+    width: 100%;
+    text-align: center;
 }
